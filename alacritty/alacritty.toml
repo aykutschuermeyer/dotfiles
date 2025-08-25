@@ -5,6 +5,9 @@ size = 10
 family = "CaskaydiaMono NerdFont"
 style = "Regular"
 
+[window]
+opacity = 0.8
+
 [[keyboard.bindings]]
 key = "Z"
 mods = "Control"
